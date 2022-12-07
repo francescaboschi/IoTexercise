@@ -1,0 +1,564 @@
+{
+  "e": [
+    [
+      {
+        "n": "heart rate",
+        "value": 73,
+        "timestamp": "1670237927.6890764",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 95,
+        "timestamp": "1670237927.6890764",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 49,
+        "timestamp": "1670237927.6890764",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 88,
+        "timestamp": "1670237928.6978915",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 96,
+        "timestamp": "1670237928.6978915",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 54,
+        "timestamp": "1670237928.6978915",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 87,
+        "timestamp": "1670237929.7034001",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 94,
+        "timestamp": "1670237929.7034001",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 41,
+        "timestamp": "1670237929.7034001",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 73,
+        "timestamp": "1670237930.7157555",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 99,
+        "timestamp": "1670237930.7157555",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 42,
+        "timestamp": "1670237930.7157555",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 88,
+        "timestamp": "1670237931.7306368",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 97,
+        "timestamp": "1670237931.7306368",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 56,
+        "timestamp": "1670237931.7306368",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 76,
+        "timestamp": "1670237932.7317579",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 98,
+        "timestamp": "1670237932.7317579",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 52,
+        "timestamp": "1670237932.7317579",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 90,
+        "timestamp": "1670237933.7450335",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 94,
+        "timestamp": "1670237933.7450335",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 53,
+        "timestamp": "1670237933.7450335",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 73,
+        "timestamp": "1670237934.7573948",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 97,
+        "timestamp": "1670237934.7573948",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 47,
+        "timestamp": "1670237934.7573948",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 88,
+        "timestamp": "1670237935.7684002",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 99,
+        "timestamp": "1670237935.7684002",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 50,
+        "timestamp": "1670237935.7684002",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 87,
+        "timestamp": "1670237936.7800674",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 97,
+        "timestamp": "1670237936.7800674",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 46,
+        "timestamp": "1670237936.7800674",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 92,
+        "timestamp": "1670237937.7893226",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 94,
+        "timestamp": "1670237937.7893226",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 55,
+        "timestamp": "1670237937.7893226",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 82,
+        "timestamp": "1670237938.7956572",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 98,
+        "timestamp": "1670237938.7956572",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 56,
+        "timestamp": "1670237938.7956572",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 88,
+        "timestamp": "1670237939.8152356",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 93,
+        "timestamp": "1670237939.8152356",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 59,
+        "timestamp": "1670237939.8152356",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 74,
+        "timestamp": "1670237940.82279",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 96,
+        "timestamp": "1670237940.82279",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 55,
+        "timestamp": "1670237940.82279",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 82,
+        "timestamp": "1670237941.8342216",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 96,
+        "timestamp": "1670237941.8342216",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 59,
+        "timestamp": "1670237941.8342216",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 89,
+        "timestamp": "1670237942.8486583",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 93,
+        "timestamp": "1670237942.8486583",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 45,
+        "timestamp": "1670237942.8486583",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 78,
+        "timestamp": "1670237943.859484",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 99,
+        "timestamp": "1670237943.859484",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 40,
+        "timestamp": "1670237943.859484",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 79,
+        "timestamp": "1670237944.867917",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 95,
+        "timestamp": "1670237944.867917",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 47,
+        "timestamp": "1670237944.867917",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 82,
+        "timestamp": "1670237945.8701398",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 99,
+        "timestamp": "1670237945.8701398",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 42,
+        "timestamp": "1670237945.8701398",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 86,
+        "timestamp": "1670237946.8722708",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 93,
+        "timestamp": "1670237946.8722708",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 43,
+        "timestamp": "1670237946.8722708",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 74,
+        "timestamp": "1670237947.8773751",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 94,
+        "timestamp": "1670237947.8773751",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 52,
+        "timestamp": "1670237947.8773751",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 90,
+        "timestamp": "1670237948.8972824",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 97,
+        "timestamp": "1670237948.8972824",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 51,
+        "timestamp": "1670237948.8972824",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 77,
+        "timestamp": "1670237949.9042501",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 95,
+        "timestamp": "1670237949.9042501",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 59,
+        "timestamp": "1670237949.9042501",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 93,
+        "timestamp": "1670237950.9139535",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 99,
+        "timestamp": "1670237950.9139535",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 53,
+        "timestamp": "1670237950.9139535",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 83,
+        "timestamp": "1670237951.9152722",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 95,
+        "timestamp": "1670237951.9152722",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 43,
+        "timestamp": "1670237951.9152722",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 75,
+        "timestamp": "1670237952.930523",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 99,
+        "timestamp": "1670237952.930736",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 38,
+        "timestamp": "1670237952.930736",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 92,
+        "timestamp": "1670237953.9452453",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 99,
+        "timestamp": "1670237953.9452453",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 49,
+        "timestamp": "1670237953.9452453",
+        "unit": "dB"
+      }
+    ],
+    [
+      {
+        "n": "heart rate",
+        "value": 83,
+        "timestamp": "1670237954.9550183",
+        "unit": "bpm"
+      },
+      {
+        "n": "Sp02",
+        "value": 93,
+        "timestamp": "1670237954.9550183",
+        "unit": "%"
+      },
+      {
+        "n": "snooring",
+        "value": 44,
+        "timestamp": "1670237954.9550183",
+        "unit": "dB"
+      }
+    ]
+  ]
+}
